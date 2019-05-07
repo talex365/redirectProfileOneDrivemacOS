@@ -8,7 +8,6 @@ jamf pro, either as part of enrollment or as a standalone policy available throu
 
 Notes on use:
 
--The script will uses jamf username parameters
 -Assumes using Office365 enterprise subscription with specified org names
 -Assumes default locations on app install, sync directory path. Suggest having these configured through jamf
 -script will check for OneDrive install, if not detected will prompt user to install, take to self service install
