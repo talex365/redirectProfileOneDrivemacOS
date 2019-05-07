@@ -5,7 +5,7 @@
 # sync folder, or if they're already in place, to set up the symlinks back to home
 # Created by Jon Oregon 10/29/18
 
-username="$3"
+username="USERNAMEHERE" #suggest using jamf parameter here
 userHomePath="/Users/$username"
 oneDriveDir='/Users/'$username'/OneDrive - yourOrgHere'
 jamfOneDriveInstall="path to your self service OneDrive install here"
