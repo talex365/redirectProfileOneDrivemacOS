@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This script is designed to be run through either self service or be run as part of enrollment
+# This script is designed to be run through either Jamf self service or be run as part of enrollment
 # This script is designed to move user home profile directories to the OneDrive
 # sync folder, or if they're already in place, to set up the symlinks back to home
 # Created by Jon Oregon 10/29/18
