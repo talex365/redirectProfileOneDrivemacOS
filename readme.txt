@@ -1,5 +1,5 @@
 Readme file for redirectProfileONeDrivemacOS.sh
-created by Jon Oregon 10/29/18
+created by Tara Oregon 10/29/18
 Released on use at own risk basis
 
 This script moves user profile folders Desktop, Documents, and Pictures to OneDrive, then symlinks them back to
